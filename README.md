@@ -2,7 +2,7 @@
 
 - Atualmente trabalhando no Hospital Sírio-Libanês;
 
-- Atualmente aprendendo HTML, JavaScript, PHP e ampliando;
+- Aprendendo HTML, JavaScript, PHP e ampliando;
   
 - Programação em Delphi/Lazarus;
 
