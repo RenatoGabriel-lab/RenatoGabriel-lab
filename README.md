@@ -4,7 +4,7 @@
 
 - Aprendendo HTML, JavaScript, PHP e ampliando;
   
-- Programação em Delphi/Lazarus;
+- Experiência em programação com Delphi/Lazarus;
 
 - SQL em Oracle e MySQL... em breve PostGre;
 
