@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+- Atualmente trabalhando no Hospital Sírio-Libanês
+
+- Programação em Delphi/Lazarus e PHP e ampliando;
+
+- SQL em Oracle e MySQL... em breve PostGre;
+
+- Linux Ubuntu;
+
+- Cursando ADS na Cruzeiro do Sul.
+
+- Ah, e claro.. Um pouco de mecânica de carros antigos como hobby.
+
 <!--
 **RenatoGabriel-lab/RenatoGabriel-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
