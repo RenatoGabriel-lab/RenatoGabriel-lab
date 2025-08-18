@@ -1,16 +1,16 @@
 ## Hi there / Olá pessoas 👋
 
-- Atualmente trabalhando no Hospital Sírio-Libanês
-
-- Programação em Delphi/Lazarus
+- Atualmente trabalhando no Hospital Sírio-Libanês;
 
 - Atualmente aprendendo HTML, JavaScript, PHP e ampliando;
+  
+- Programação em Delphi/Lazarus;
 
 - SQL em Oracle e MySQL... em breve PostGre;
 
 - Linux Ubuntu;
 
-- Cursando ADS na Cruzeiro do Sul.
+- Cursando ADS na Cruzeiro do Sul;
 
 - Ah, e claro.. Um pouco de mecânica de carros antigos como hobby.
 
