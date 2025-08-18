@@ -4,7 +4,7 @@
 
 - Programação em Delphi/Lazarus
 
-- Atualmente PHP e ampliando;
+- Atualmente aprendendo HTML, JavaScript, PHP e ampliando;
 
 - SQL em Oracle e MySQL... em breve PostGre;
 
