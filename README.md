@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi there / Olá pessoas 👋
 
 - Atualmente trabalhando no Hospital Sírio-Libanês
 
-- Programação em Delphi/Lazarus e PHP e ampliando;
+- Programação em Delphi/Lazarus
+
+- Atualmente PHP e ampliando;
 
 - SQL em Oracle e MySQL... em breve PostGre;
 
