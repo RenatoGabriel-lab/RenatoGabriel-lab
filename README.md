@@ -1,4 +1,4 @@
-## Hi there / Olá pessoas 👋
+## Olá pessoas 👋
 
 - Atualmente trabalhando no Hospital Sírio-Libanês;
 
