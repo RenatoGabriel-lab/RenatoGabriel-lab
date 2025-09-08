@@ -12,6 +12,8 @@
 
 - Cursando ADS na Cruzeiro do Sul;
 
+- Colaborativo, participativo, bem humorado, habilidade em solução de problemas.
+
 - Ah, e claro.. Um pouco de mecânica de carros antigos como hobby.
 
 <!--
